@@ -7,5 +7,6 @@ The translated text is switched using the language code(ISO 639-1).
 English - en  
 Japanese - ja  
 Korean - ko  
+
 Simplified Chinese - zh-cn
 Traditional Chinese - zh-tw
