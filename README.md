@@ -8,5 +8,4 @@ English - en
 Japanese - ja  
 Korean - ko  
 Simplified Chinese - zh-cn
-
 Traditional Chinese - zh-tw
