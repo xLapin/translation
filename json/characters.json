@@ -5,11 +5,15 @@
                 "ja": "ノノミ",
                 "en": "Nonomi",
                 "ko": "노노미"
+                "zh-cn": "野宫",
+                "zh-tw": "野乃美"
             },
             "last_name": {
                 "ja": "十六夜",
                 "en": "Izayoi",
-                "ko": "이자요이"
+                "ko": "이자요이",
+                "zh-cn": "十六夜",
+                "zh-tw": "十六夜"
             }
         },
         "school": "abydos",
@@ -28,12 +32,16 @@
             "first_name": {
                 "ja": "セリカ",
                 "en": "Serika",
-                "ko": "세리카"
+                "ko": "세리카",
+                "zh-cn": "芹香",
+                "zh-tw": "茜香"
             },
             "last_name": {
                 "ja": "黒見",
                 "en": "Kuromi",
-                "ko": "쿠로미"
+                "ko": "쿠로미",
+                "zh-cn": "黑见",
+                "zh-tw": "黑見"
             }
         },
         "school": "abydos",
@@ -55,12 +63,16 @@
             "first_name": {
                 "ja": "アヤネ",
                 "en": "Ayane",
-                "ko": "아야네"
+                "ko": "아야네",
+                "zh-cn": "绫音",
+                "zh-tw": "綾音"
             },
             "last_name": {
                 "ja": "奥空",
                 "en": "Okusora",
-                "ko": "오쿠소라"
+                "ko": "오쿠소라",
+                "zh-cn": "奥空",
+                "zh-tw": "奥空"
             }
         },
         "school": "abydos",
@@ -79,12 +91,16 @@
             "first_name": {
                 "ja": "シロコ",
                 "en": "Shiroko",
-                "ko": "시로코"
+                "ko": "시로코",
+                "zh-cn": "白子",
+                "zh-tw": "白子"
             },
             "last_name": {
                 "ja": "砂狼",
                 "en": "Sunaookami",
-                "ko": "스나오오카미"
+                "ko": "스나오오카미",
+                "zh-cn": "砂狼",
+                "zh-tw": "砂狼"
             }
         },
         "school": "abydos",
@@ -104,12 +120,16 @@
             "first_name": {
                 "ja": "ホシノ",
                 "en": "Hoshino",
-                "ko": "호시노"
+                "ko": "호시노",
+                "zh-cn": "星野",
+                "zh-tw": "星野"
             },
             "last_name": {
                 "ja": "小鳥遊",
                 "en": "Takanashi",
-                "ko": "타카나시"
+                "ko": "타카나시",
+                "zh-cn": "小鸟游",
+                "zh-tw": "小鳥游"
             }
         },
         "school": "abydos",
@@ -128,12 +148,16 @@
             "first_name": {
                 "ja": "フウカ",
                 "en": "Fuuka",
-                "ko": "후우카"
+                "ko": "후우카",
+                "zh-cn": "风香",
+                "zh-tw": "風華"
             },
             "last_name": {
                 "ja": "愛清",
                 "en": "Aikiyo",
-                "ko": "아이키요"
+                "ko": "아이키요",
+                "zh-cn": "爱清",
+                "zh-tw": "愛清"
             }
         },
         "school": "gehenna",
@@ -150,12 +174,16 @@
             "first_name": {
                 "ja": "ジュンコ",
                 "en": "Junko",
-                "ko": "준코"
+                "ko": "준코",
+                "zh-cn": "纯子",
+                "zh-tw": "淳子",
             },
             "last_name": {
                 "ja": "赤司",
                 "en": "Akashi",
-                "ko": "아카시"
+                "ko": "아카시",
+                "zh-cn": "赤司",
+                "zh-tw": "赤司",
             }
         },
         "school": "gehenna",
